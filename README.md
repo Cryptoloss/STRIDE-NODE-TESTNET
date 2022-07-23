@@ -11,9 +11,11 @@ Cosmos ekosistemindeki mevcut DeFi durumu yetersiz ve verimsiz. Kullanıcılar, 
 **Not:** Cosmos ekosisteminde benim bildiğim bunu yapacak olan ilk proje. Katılın kolay kurulumu var ve ayrıca kısa sürede bitecek
 
 Başlangıç: 25/06/2022
+
 Bitiş: TBA
 
 Gelişmeleri Takip Etmek Ve Yardım Almak İçin Telegram:https://t.me/LossNode
+
 Video:
 
 **Sistem Gereksinimleri**
