@@ -113,3 +113,5 @@ https://stride.explorers.guru/validators
 _**Sosyal Medya Hesaplarımız**_
 
 📲 https://linktr.ee/lossnode
+
+Translate ettim kendime ait bir script değildir.
