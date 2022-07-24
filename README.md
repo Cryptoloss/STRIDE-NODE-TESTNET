@@ -16,7 +16,7 @@ Bitiş: TBA
 
 Gelişmeleri Takip Etmek Ve Yardım Almak İçin Telegram:https://t.me/LossNode
 
-Video:
+Video:https://youtu.be/SLSZi48ZssE
 
 **Sistem Gereksinimleri**
 
