@@ -98,16 +98,18 @@ strided status 2>&1 | jq .SyncInfo
 
 Validatör oluşturma
 
+```
 strided tx staking create-validator \
   --amount 10000000ustrd \
-  --from $WALLET \
+  --from cüzdanismi \
   --commission-max-change-rate "0.01" \
   --commission-max-rate "0.2" \
   --commission-rate "0.07" \
   --min-self-delegation "1" \
   --pubkey  $(strided tendermint show-validator) \
-  --moniker cryptoloss \
+  --moniker monikerismi \
   --chain-id $STRIDE_CHAIN_ID
+```
 
 **Explorer:**
 https://stride.explorers.guru/validators
